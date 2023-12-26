@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Education"
+title: "Research Projects"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -9,6 +9,5 @@ redirect_from:
 
 #{% include base_path %}
 
-======
 * B.E. in Northeast Electric Power University, China, 2022
 * M.E. in Northeastern University,China, 2025 (expected)
