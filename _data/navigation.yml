@@ -7,10 +7,10 @@ main:
     url: /talks/    
 
   - title: "Research Projects"
-    url: /cv/    
+    url: /researchprojects/    
     
   - title: "Education"
-    url: /markdown/
+    url: /education/
         
   #- title: "CV"
   #  url: /cv/
