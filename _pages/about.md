@@ -11,4 +11,4 @@ I am a master student majoring in Electrical Engineering at [College of Informat
 
 My research interests include distribution network power flow analysis, data-model driven, renewable energy and electric vehicles.
 
-Welcome to exchange! Email:2200736@stu.neu.edu.cn
+Welcome to exchange! Email: 2200736@stu.neu.edu.cn
