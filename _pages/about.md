@@ -11,4 +11,4 @@ I am a master's student majoring in Electrical Engineering from Northeastern Uni
 
 My research interests include distribution network power flow analysis, electric vehicles, renewable energy output power uncertainty, data-model combined drive.
 
-Welcome to exchange! (Email: 2200736@stu.neu.edu.cn)
+Welcome to exchange! (Email: 2200736@stu.neu.edu.cn).
