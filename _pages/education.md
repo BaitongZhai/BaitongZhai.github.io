@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "Education"
-permalink: /markdown/
+permalink: /e/
 author_profile: true
 redirect_from:
   - /resume
