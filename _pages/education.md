@@ -7,5 +7,6 @@ redirect_from:
   - /resume
 ---
 
-* B.E. in Northeast Electric Power University, China, 2022
-* M.E. in Northeastern University, China, 2025 (expected)
+* M.E. in Northeastern University, China, June 2025
+* B.E. in Northeast Electric Power University, China, June 2022
+
